@@ -44,7 +44,7 @@
 <!-- GIF -->
 <div style="text-align:center; margin-top:30px;">
 <img 
-  src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
+  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
   width="350"
   style="border-radius:10px;"
 />
