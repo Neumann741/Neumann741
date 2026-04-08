@@ -16,8 +16,9 @@
 <h3 style="color:#00f7ff;">📊 GitHub Stats</h3>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Neumann741&show_icons=true&theme=radical&cache_seconds=1"
-  width="100%"
+  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+  width="350"
+  style="border-radius:10px;"
 />
 
 </div>
