@@ -16,3 +16,6 @@ Meu nome é Arthur Neumann, tenho 18 anos e estou iniciando minha jornada no des
 [![](https://visitcount.itsvg.in/api?id=Neumann741&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neumann751&show_icons=true&theme=radical)
