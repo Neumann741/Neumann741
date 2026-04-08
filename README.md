@@ -8,12 +8,12 @@
 
 <div style="flex:1; min-width:300px; background:#111; padding:15px; border-radius:10px;">
 <h3 style="color:#00f7ff;">GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Neumann741&show_icons=true&theme=radical" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?Neumann741&show_icons=true&theme=radical" width="100%">
 </div>
 
 <div style="flex:1; min-width:300px; background:#111; padding:15px; border-radius:10px;">
 <h3 style="color:#ff00ff;">Most Used</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neumann741&layout=compact&theme=radical" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Neumann741&layout=compact&theme=radical" width="100%">
 </div>
 
 </div>
