@@ -17,11 +17,9 @@
 <div style="flex:1; min-width:300px; background:#111; padding:15px; border-radius:10px;">
 <h3 style="color:#00f7ff;">📊 GitHub Stats</h3>
 
-<img 
-  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-  width="350"
-  style="border-radius:10px;"
-/>
+<div style="margin-top:30px; text-align:center;">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</div>
 
 </div>
 
@@ -29,10 +27,7 @@
 <div style="flex:1; min-width:300px; background:#111; padding:15px; border-radius:10px;">
 <h3 style="color:#ff00ff;">🧠 Most Used</h3>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neumann741&layout=compact&theme=radical&cache_seconds=1"
-  width="100%"
-/>
+
 
 </div>
 
