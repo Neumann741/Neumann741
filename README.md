@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Meu nome é Arthur Neumann, tenho 18 anos e estou iniciando minha jornada no desenvolvimento front-end. Tenho interesse em tecnologia e em criar interfaces digitais, buscando sempre aprender novas ferramentas e aprimorar minhas habilidades. Estou construindo minha base na programação com foco em evoluir continuamente e conquistar meu espaço na área de desenvolvimento web.<br>
 
 
