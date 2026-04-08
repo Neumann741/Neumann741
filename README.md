@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<h1>Arthur Neumann</h1>
 
 **Neumann741/Neumann741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
