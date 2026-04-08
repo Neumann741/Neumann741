@@ -12,12 +12,6 @@ Meu nome é Arthur Neumann, tenho 18 anos e estou iniciando minha jornada no des
 ![](https://nirzak-streak-stats.vercel.app/?user=Neumann741&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neumann741&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Neumann741&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Neumann741&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Neumann741&icon=2&color=8)](https://visitcount.itsvg.in)
 
