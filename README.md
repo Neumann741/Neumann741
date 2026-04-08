@@ -1,9 +1,4 @@
-<div style="width:100%; overflow:hidden; border-radius:10px;">
-  <img 
-    src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1600&q=80"
-    width="100%"
-    style="filter: brightness(0.7) contrast(1.2) saturate(1.3);"
-  />
+
 </div>
 <div style="background:#0a0a0a; color:white; padding:20px; font-family:Arial;">
 
