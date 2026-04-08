@@ -5,22 +5,17 @@
 - 😄 Pronouns: he/him
 
 
-<div style="background:black; color:#00ff00; font-family: 'Courier New', monospace; padding:20px;">
+<div style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); color:white; text-align:center; padding:30px; font-family:sans-serif;">
 
-<h1>> Olá, eu sou [SEU NOME]</h1>
-<p>> Desenvolvedor em constante evolução...</p>
-<p>> Inicializando sistema...</p>
+<h1 style="color:#00f7ff;">⚡ [SEU NOME]</h1>
 
-<hr style="border: 1px solid #00ff00;">
+<p>🚀 Desenvolvedor do futuro</p>
 
-<h2>> Skills</h2>
-<p>> HTML | CSS | JavaScript | Python</p>
+<h2 style="color:#ff00ff;">Tecnologias</h2>
+<p>HTML • CSS • JavaScript • Python</p>
 
-<h2>> Status</h2>
-<p>> 🟢 Online</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=tokyonight&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark"/>
-
-<p>> Fim da transmissão...</p>
+<p style="margin-top:20px; color:#00f7ff;">Conecte-se comigo ⚡</p>
 
 </div>
